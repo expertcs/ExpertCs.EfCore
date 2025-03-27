@@ -13,10 +13,17 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
     <AnalysisLevel>6.0-all</AnalysisLevel>
+    <PackageProjectUrl>https://github.com/expertcs/ExpertCs.EfCore</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/expertcs/ExpertCs.EfCore</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\128_232.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
